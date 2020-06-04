@@ -5,7 +5,7 @@ from itertools import cycle
 
 ErrorMsg = "Invalid token, or you're ratelimited from the endpoint"
 
-__version__ = "1.0.3"
+__version__ = "1.0.0"
 
 def main():
     print(f"Discord User Fucker")
