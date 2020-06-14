@@ -10,4 +10,4 @@ python main.py
 
 
 ## Important
-This tool has been created only for testing!!
+This tool has been created only for testing!
