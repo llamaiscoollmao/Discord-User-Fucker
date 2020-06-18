@@ -5,6 +5,9 @@ Discord User Fucker changes the status, language, theme and disables many other 
 ## Installation
 
 ```
+pip install requests random itertools
+```
+```
 python main.py
 ```
 
