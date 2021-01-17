@@ -1,4 +1,4 @@
-# Copyright llamaiscoollmao 2021. Don't u steal anything.
+# © 2021 llamaiscoollmao. All rights reserved. Don't steal anything.
 
 import requests, random
 
