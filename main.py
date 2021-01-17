@@ -1,3 +1,5 @@
+# Copyright llamaiscoollmao 2021. Don't u steal anything.
+
 import requests, random
 
 from itertools import cycle
